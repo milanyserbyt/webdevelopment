@@ -26,23 +26,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/Users/yserb/OneDrive/Documenten/GitHub/webdevelopment/Labo3/PersonalHomepageUitbreiding",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yserb\OneDrive\Documenten\GitHub\webdevelopment\Labo3\PersonalHomepageUitbreiding" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yserb\OneDrive\Documenten\GitHub\webdevelopment\Labo3\OpdrachtPersonalHompage" />
       <recent name="C:\Users\yserb\OneDrive\Documenten\GitHub\webdevelopment\Images" />
     </key>
   </component>
@@ -69,7 +74,10 @@
       <workItem from="1790856730887" duration="5024000" />
       <workItem from="1790868162315" duration="1101000" />
       <workItem from="1791029445474" duration="221000" />
-      <workItem from="1791029819028" duration="1152000" />
+      <workItem from="1791029819028" duration="1479000" />
+      <workItem from="1791465835367" duration="16846000" />
+      <workItem from="1791541270855" duration="18000" />
+      <workItem from="1791557893886" duration="1493000" />
     </task>
     <servers />
   </component>
