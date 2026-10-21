@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -37,9 +38,11 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/yserb/OneDrive/Documenten/GitHub/webdevelopment/Labo3/PersonalHomepageUitbreiding&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -82,6 +85,8 @@
       <workItem from="1791560637282" duration="200000" />
       <workItem from="1791812504903" duration="931000" />
       <workItem from="1792162220322" duration="2763000" />
+      <workItem from="1792520825877" duration="6459000" />
+      <workItem from="1792596085586" duration="4499000" />
     </task>
     <servers />
   </component>
