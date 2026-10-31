@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,7 +42,7 @@
     &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -50,6 +50,8 @@
       <recent name="C:\Users\yserb\OneDrive\Documenten\GitHub\webdevelopment\Labo3\PersonalHomepageUitbreiding" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yserb\OneDrive\Documenten\GitHub\webdevelopment\CSS\labo5" />
+      <recent name="C:\Users\yserb\OneDrive\Documenten\GitHub\webdevelopment\CSS\labo6" />
       <recent name="C:\Users\yserb\OneDrive\Documenten\GitHub\webdevelopment\Labo4\Opdracht5" />
       <recent name="C:\Users\yserb\OneDrive\Documenten\GitHub\webdevelopment\Labo3\OpdrachtPersonalHompage" />
       <recent name="C:\Users\yserb\OneDrive\Documenten\GitHub\webdevelopment\Images" />
@@ -88,6 +90,10 @@
       <workItem from="1792520825877" duration="6459000" />
       <workItem from="1792596085586" duration="6960000" />
       <workItem from="1792685680183" duration="2353000" />
+      <workItem from="1793022135916" duration="4353000" />
+      <workItem from="1793103723988" duration="3000" />
+      <workItem from="1793293963811" duration="4608000" />
+      <workItem from="1793480684268" duration="4306000" />
     </task>
     <servers />
   </component>
