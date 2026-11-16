@@ -1,0 +1,34 @@
+.kalender {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.kalender th,
+.kalender td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.kalender thead tr:first-child th {
+    background-color: rgb(170, 170, 200);
+    color: black;
+}
+
+.kalender thead th {
+    color: rgb(200, 190, 240);
+    background-color: rgb(35, 37, 70);
+}
+
+.kalender tbody td:first-child,
+.kalender tbody td:last-child {
+    background-color: rgb(255, 220, 220);
+}
+
+table.kalender td.feestdag {
+    background-color: rgb(250, 120, 120);
+}
+
+table.kalender td.andere-maand {
+    background-color: lightgray;
+    color: gray;
+}

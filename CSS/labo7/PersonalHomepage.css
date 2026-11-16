@@ -1,0 +1,102 @@
+body {
+    width: 95%;
+    margin: 0 auto;
+    background-color: #1E3A5F;
+}
+
+header {
+    background-color: #1E3A5F;
+    color: white;
+    padding: 0;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+article {
+    background-color: white;
+    border-radius: 20px;
+    padding: 11px;
+    margin: 15px;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+h2 {
+    color: #1E3A5F;
+    font-size: 20px;
+}
+
+a {
+    color: #168C91;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.2s;
+}
+
+a:hover {
+    color: #106B70;
+    text-decoration: underline;
+}
+
+
+div.gegevens {
+    display: flex;
+    align-items: center;
+}
+
+div.gegevens p {
+    padding-left: 10px;
+}
+
+div.gegevens img {
+    border-radius: 50px;
+}
+
+.interesses {
+    display: flex;
+    gap: 40px;
+    text-align: center;
+    justify-content: center;
+}
+
+article ul {
+    list-style-type: none;
+    font-family: Arial, sans-serif;
+}
+
+.tabel {
+    background-color: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.07);
+}
+
+.tabel table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+
+
+.tabel th {
+    background-color: #1E3A5F;
+    color: white;
+    padding: 14px 16px;
+    font-size: 15px;
+    text-align: left;
+}
+
+.tabel td {
+    padding: 12px 16px;
+    color: #263445;
+    border-bottom: 1px solid #E1E7EF;
+}
+
+.tabel tbody tr:nth-child(even) {
+    background-color: #F4F6F9;
+}
+.tabel td.onbekend {
+    background-color: #F44336;
+}
