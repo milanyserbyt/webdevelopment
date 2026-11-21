@@ -3,7 +3,7 @@ body {
     margin: 0 auto;
 }
 header > h1 {
-    background-image: url("/Images/header.jpg");
+    background-image: url("Images/header.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     text-align: left;
